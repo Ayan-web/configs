@@ -4,11 +4,7 @@ set is
 let g:vim_json_warnings=0
 set ic 
 call plug#begin('~/.vim/plugged')
-Plug 'vim-airline/vim-airline'
-Plug 'vim-syntastic/syntastic'
-Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-surround'
-Plug 'dense-analysis/ale'
 Plug 'tpope/vim-commentary'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-fugitive'
